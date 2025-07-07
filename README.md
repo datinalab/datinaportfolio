@@ -10,8 +10,10 @@ Repositorio de Datina con proyectos de análisis y visualización de datos 📈�
 📂 *Proyectos*
 
 📊 Análisis Exploratorio de Datos en Marketing
+
 Descripción
 En este proyecto exploramos un conjunto de datos de marketing para descubrir tendencias, patrones e insights clave sobre el comportamiento de clientes y el rendimiento de campañas.
+
 Objetivos
 - 🔢 Aplicar estadísticas descriptivas (media, mediana, desviación)
 - 📈 Generar visualizaciones que revelen relaciones y valores atípicos
